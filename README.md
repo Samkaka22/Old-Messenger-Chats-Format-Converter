@@ -18,10 +18,10 @@ Download the necessary chat data by requesting it from your messenger account. I
 
 <img width="426" height="480" alt="image" src="https://github.com/user-attachments/assets/c355d876-0aee-4501-95ce-9c209877d80f" />
 
-> [!NOTE]
-> Check out for further changes as per **Meta** updates.
 
 </details>
 
+> [!NOTE]
+> Check out for further changes as per **Meta** updates
 
 
