@@ -35,7 +35,7 @@ Download the necessary chat data by requesting it from your messenger account. I
    ```
   python main.py <file name>.json
   ```
->> If you want to view the media files within your downloaded .HTML file, it is important to follow the conversion process of .json files within the same folder where the media folder is present after extraction. _Otherwise the media won't be displayed after conversion in the .HtML file_
+>> If you want to view the media files within your downloaded .HTML file, it is important to follow the conversion process of .json files within the same folder where the media folder is present after extraction. _Otherwise the media won't be displayed after conversion in the .HTML file_
 
    
 > [!NOTE]
