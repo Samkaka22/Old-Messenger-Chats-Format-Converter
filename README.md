@@ -8,5 +8,14 @@ Therefore, as the newer format was a bit hard to understand and not so user frie
 - Python IDE ( Visual Code Studio or similar)
 - Zip Extractor
 
+## Steps to Follow
 
+### Step 1 (Downloading the necessary data from Meta)
+Download the necessary chat data by requesting it from your messenger account. It will appear in the form of a .Zip file.
+<help>
+<b>How to download data from messenger</b>
+
+
+
+</help>
 
