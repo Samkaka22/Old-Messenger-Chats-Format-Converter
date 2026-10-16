@@ -24,4 +24,14 @@ Download the necessary chat data by requesting it from your messenger account. I
 > [!NOTE]
 > Check out for further changes as per **Meta** updates
 
-
+### Step 2 (Using the code)
+- **Copy** the code from [main.py](https://github.com/Samkaka22/Old-Messenger-Chats-Format-Converter/blob/63470d10047172e720be01255aede785a620bcf1/main.py) 
+- Type the following command in the **_Terminal_** for **All Files**
+  ```
+  python main.py
+  ```
+  >This will transform all the .json files into .HTML file format present within the downloaded folder.
+- Type the following command in the **_Terminal_** for **Single File** 
+   ```
+  python main.py <file name>.json
+  ```
