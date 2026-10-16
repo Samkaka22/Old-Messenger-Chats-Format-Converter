@@ -12,10 +12,13 @@ Therefore, as the newer format was a bit hard to understand and not so user frie
 
 ### Step 1 (Downloading the necessary data from Meta)
 Download the necessary chat data by requesting it from your messenger account. It will appear in the form of a .Zip file.
-<help>
-<b>How to download data from messenger</b>
+
+<details>
+<summary>How to download data from messenger</summary>
+
+<img width="426" height="480" alt="image" src="https://github.com/user-attachments/assets/c355d876-0aee-4501-95ce-9c209877d80f" />
+
+</details>
 
 
-
-</help>
 
