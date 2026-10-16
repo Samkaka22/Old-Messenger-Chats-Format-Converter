@@ -42,4 +42,4 @@ Download the necessary chat data by requesting it from your messenger account. I
 > I did this project for my personal use. Hope it helps you as well :slightly_smiling_face:    
 
 > [!TIP]
-> If you want to avoid the struggle of offline conversion, you can check out the online viewer version done by [SadBios](https://github.com/SadBIOS), which is :point_right: [Stateless Meta JSON Viewer](https://github.com/SadBIOS/Stateless-Meta-JSON-Viewer.git) 
+> If you want to avoid the struggle of offline conversion, you can check out the browser viewer version done by [SadBios](https://github.com/SadBIOS), which is :point_right: [Stateless Meta JSON Viewer](https://github.com/SadBIOS/Stateless-Meta-JSON-Viewer.git) 
