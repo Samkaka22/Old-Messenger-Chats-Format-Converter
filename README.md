@@ -16,7 +16,7 @@ Download the necessary chat data by requesting it from your messenger account. I
 <details>
 <summary>How to download data from messenger</summary>
 
-<img width="426" height="480" alt="image" src="https://github.com/user-attachments/assets/c355d876-0aee-4501-95ce-9c209877d80f" />
+< />
 
 
 </details>
