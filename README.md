@@ -16,7 +16,7 @@ Download the necessary chat data by requesting it from your messenger account. I
 <details>
 <summary>How to download data from messenger</summary>
 
-< />
+<img src="https://github.com/Samkaka22/Old-Messenger-Chats-Format-Converter/blob/b7ae03507c6f39c8853c28ceecae2bad3c137ebf/Instruction.png" />
 
 
 </details>
