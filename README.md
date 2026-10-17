@@ -1,7 +1,7 @@
 # Old Messenger chats format converter
 
 ## Introduction 
-As per the newer Meta rules, the download of chat information now occurs in the format of .json files. Whereas before 2024, the Metadata (messenger chats) download was in .HTML file format and was very user friendly.
+As per the newer Meta rules, the download of chat information now occurs in the format of **`.json`** files. Whereas before 2024, the Metadata (messenger chats) download was in **`.HTML`** file format and was very user friendly.
 Therefore, as the newer format was a bit hard to understand and not so user friendly I decided to come up with this project for my own cause. However, I thought it would also benefit others and hence I decided to share it with you all.
 
 ## Requirements
@@ -11,7 +11,7 @@ Therefore, as the newer format was a bit hard to understand and not so user frie
 ## Steps to Follow
 
 ### Step 1 (Downloading the necessary data from Meta)
-Download the necessary chat data by requesting it from your messenger account. It will appear in the form of a .Zip file.
+Download the necessary chat data by requesting it from your messenger account. It will appear in the form of a `.Zip` file.
 
 <details>
 <summary>How to download data from messenger</summary>
@@ -30,12 +30,12 @@ Download the necessary chat data by requesting it from your messenger account. I
   ```
   python main.py
   ```
-  >This will transform all the .json files into .HTML file format present within the downloaded folder.
+  >This will transform all the .json files into **`.HTML`** file format present within the downloaded folder.
 - Type the following command in the **_Terminal_** for **Single File** 
    ```
   python main.py <file name>.json
   ```
->> If you want to view the media files within your downloaded .HTML file, it is important to follow the conversion process of .json files within the same folder where the media folder is present after extraction. _Otherwise the media won't be displayed after conversion in the .HTML file_
+>> If you want to view the media files within your downloaded **`.HTML`** file, it is important to follow the conversion process of **`.json`** files within the same folder where the media folder is present after extraction. _Otherwise the media won't be displayed after conversion in the **`.HTML`** file_
 
    
 > [!NOTE]
